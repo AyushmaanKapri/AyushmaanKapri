@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Ayushmaan Kapri!  
+# 👋 Hi, I’m Ayush Kapri!  
 
 ## 🚀 About Me  
 I'm a **B.Tech CSE** student specializing in **AI and ML** at **Galgotias University**. Passionate about technology and its potential to drive change, I'm currently exploring **Android Development** and venturing into the world of **Flutter**.  
